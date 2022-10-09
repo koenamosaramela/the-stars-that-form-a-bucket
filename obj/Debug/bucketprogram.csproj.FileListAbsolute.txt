@@ -1,0 +1,16 @@
+C:\Users\mosar\Desktop\programms\bucketprogram\bin\Debug\bucketprogram.exe.config
+C:\Users\mosar\Desktop\programms\bucketprogram\bin\Debug\bucketprogram.exe
+C:\Users\mosar\Desktop\programms\bucketprogram\bin\Debug\bucketprogram.pdb
+C:\Users\mosar\Desktop\programms\bucketprogram\obj\Debug\bucketprogram.csproj.AssemblyReference.cache
+C:\Users\mosar\Desktop\programms\bucketprogram\obj\Debug\bucketprogram.csproj.SuggestedBindingRedirects.cache
+C:\Users\mosar\Desktop\programms\bucketprogram\obj\Debug\bucketprogram.csproj.CoreCompileInputs.cache
+C:\Users\mosar\Desktop\programms\bucketprogram\obj\Debug\bucketprogram.exe
+C:\Users\mosar\Desktop\programms\bucketprogram\obj\Debug\bucketprogram.pdb
+C:\Users\mosar\Documents\programms\bucketprogram\bin\Debug\bucketprogram.exe.config
+C:\Users\mosar\Documents\programms\bucketprogram\bin\Debug\bucketprogram.exe
+C:\Users\mosar\Documents\programms\bucketprogram\bin\Debug\bucketprogram.pdb
+C:\Users\mosar\Documents\programms\bucketprogram\obj\Debug\bucketprogram.csproj.AssemblyReference.cache
+C:\Users\mosar\Documents\programms\bucketprogram\obj\Debug\bucketprogram.csproj.SuggestedBindingRedirects.cache
+C:\Users\mosar\Documents\programms\bucketprogram\obj\Debug\bucketprogram.csproj.CoreCompileInputs.cache
+C:\Users\mosar\Documents\programms\bucketprogram\obj\Debug\bucketprogram.exe
+C:\Users\mosar\Documents\programms\bucketprogram\obj\Debug\bucketprogram.pdb
